@@ -12,3 +12,4 @@ Install the [user style](https://userstyles.world/style/2702/wakanim-subtitles-b
 
 ## Preview
 ![Preview](preview.png)
+![Settings](settings.png)
