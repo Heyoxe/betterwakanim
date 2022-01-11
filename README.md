@@ -8,7 +8,7 @@ Install the [user style](https://userstyles.world/style/2702/wakanim-subtitles-b
 
 ## Features
 - [x] Add background to the new wakanim soft subtitles
-- [ ] Make background/subtitle size/color customizable
+- [x] Make background/subtitle size/color customizable
 
 ## Preview
 ![Preview](preview.png)
